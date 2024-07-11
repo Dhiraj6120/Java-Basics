@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4678db73-e7f9-44b4-b9ab-725ccb0f0e3e" name="Changes" comment="Sorting Techniques - Bubble Sort">
-      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
+    <list default="true" id="4678db73-e7f9-44b4-b9ab-725ccb0f0e3e" name="Changes" comment="Sorting Techniques - Selection Sort">
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +39,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SelectionSort">
+  <component name="RunManager" selected="Application.InsertionSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+      <module name="Basic Java Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
       <module name="Basic Java Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSort" />
       </list>
@@ -85,12 +92,20 @@
       <option name="project" value="LOCAL" />
       <updated>1720713989836</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Sorting Techniques - Selection Sort">
+      <created>1720718186822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720718186822</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Basics and Advance" />
     <MESSAGE value="Sorting Techniques - Bubble Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sorting Techniques - Bubble Sort" />
+    <MESSAGE value="Sorting Techniques - Selection Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sorting Techniques - Selection Sort" />
   </component>
 </project>
