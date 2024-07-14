@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4678db73-e7f9-44b4-b9ab-725ccb0f0e3e" name="Changes" comment="Problems: Recursion 1">
-      <change afterPath="$PROJECT_DIR$/src/AnonymousClass.java" afterDir="false" />
+    <list default="true" id="4678db73-e7f9-44b4-b9ab-725ccb0f0e3e" name="Changes" comment="Concept: Anonymous Class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnonymousClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnonymousClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720837491799</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Concept: Anonymous Class">
+      <created>1720975318834</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720975318834</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +146,7 @@
     <MESSAGE value="Sorting Techniques - Selection Sort" />
     <MESSAGE value="Sorting Techniques - Insertion Sort" />
     <MESSAGE value="Problems: Recursion 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problems: Recursion 1" />
+    <MESSAGE value="Concept: Anonymous Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concept: Anonymous Class" />
   </component>
 </project>
