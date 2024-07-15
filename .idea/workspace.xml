@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4678db73-e7f9-44b4-b9ab-725ccb0f0e3e" name="Changes" comment="Concept:Lambda classes with Anonymous Class">
-      <change afterPath="$PROJECT_DIR$/src/SelecSort.java" afterDir="false" />
+    <list default="true" id="4678db73-e7f9-44b4-b9ab-725ccb0f0e3e" name="Changes" comment="Concept:Selection Sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +21,37 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="mac" />
+                    <option name="lastUsedInstant" value="1721019886" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1721019885" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,7 +70,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SelecSort">
+  <component name="RunManager" selected="Application.InsertionSort">
     <configuration name="AnonymousClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnonymousClass" />
       <module name="Basic Java Practice" />
@@ -78,10 +108,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelecSort" />
         <item itemvalue="Application.AnonymousClass" />
         <item itemvalue="Application.Recursion" />
-        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
@@ -144,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720976298139</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Concept:Selection Sort">
+      <created>1721019899758</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721019899758</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,6 +192,7 @@
     <MESSAGE value="Problems: Recursion 1" />
     <MESSAGE value="Concept: Anonymous Class" />
     <MESSAGE value="Concept:Lambda classes with Anonymous Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Concept:Lambda classes with Anonymous Class" />
+    <MESSAGE value="Concept:Selection Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concept:Selection Sort" />
   </component>
 </project>
