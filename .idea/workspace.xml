@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4678db73-e7f9-44b4-b9ab-725ccb0f0e3e" name="Changes" comment="Concept: Anonymous Class">
+    <list default="true" id="4678db73-e7f9-44b4-b9ab-725ccb0f0e3e" name="Changes" comment="Concept:Lambda classes with Anonymous Class">
+      <change afterPath="$PROJECT_DIR$/src/SelecSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnonymousClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnonymousClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +40,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AnonymousClass">
+  <component name="RunManager" selected="Application.SelecSort">
     <configuration name="AnonymousClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnonymousClass" />
-      <module name="Basic Java Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="Basic Java Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SelecSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelecSort" />
+      <module name="Basic Java Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SelectionSort" />
       <module name="Basic Java Practice" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelecSort" />
         <item itemvalue="Application.AnonymousClass" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720975318834</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Concept:Lambda classes with Anonymous Class">
+      <created>1720976298139</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720976298139</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,6 +154,7 @@
     <MESSAGE value="Sorting Techniques - Insertion Sort" />
     <MESSAGE value="Problems: Recursion 1" />
     <MESSAGE value="Concept: Anonymous Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Concept: Anonymous Class" />
+    <MESSAGE value="Concept:Lambda classes with Anonymous Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concept:Lambda classes with Anonymous Class" />
   </component>
 </project>
