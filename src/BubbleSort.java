@@ -8,7 +8,9 @@ public class BubbleSort {
                 if(nums[i]<nums[j]){
                     int temp = nums[i];
                     nums[i] = nums[j];
+
                     nums[j] = temp; //New Changes in Mac
+
                 }
             }
         }
