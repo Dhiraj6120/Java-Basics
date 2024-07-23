@@ -11,6 +11,8 @@ public class BubbleSort {
 
                     nums[j] = temp; //New Changes in Mac
 
+                    //num[j] = temp
+
                 }
             }
         }
