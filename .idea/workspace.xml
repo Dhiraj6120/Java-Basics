@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4678db73-e7f9-44b4-b9ab-725ccb0f0e3e" name="Changes" comment="Concept:Insertion Sort">
-      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="mac" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,8 +37,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="windows" />
+                    <option name="lastUsedInstant" value="1721744127" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="mac" />
-                    <option name="lastUsedInstant" value="1721019886" />
+                    <option name="lastUsedInstant" value="1721743955" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -108,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelecSort" />
+        <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.SelecSort" />
         <item itemvalue="Application.AnonymousClass" />
-        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
